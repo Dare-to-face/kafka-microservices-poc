@@ -14,8 +14,8 @@
     <module>inventory-service</module>-->
     <!-- later: notification-service -->
     <module>common-events</module>
-    <module>order-service</module>
-    <module>inventry-service</module>
+    <module></module>
+    <module>inventory-service</module>
   </modules>
 
   <properties>
