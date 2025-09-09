@@ -9,12 +9,8 @@
   <packaging>pom</packaging>
 
   <modules>
-<!--    <module>common-events</module>
-    <module>order-service</module>
-    <module>inventory-service</module>-->
-    <!-- later: notification-service -->
     <module>common-events</module>
-    <module></module>
+    <module>order-service</module>
     <module>inventory-service</module>
   </modules>
 
